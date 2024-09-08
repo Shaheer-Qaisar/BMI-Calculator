@@ -160,7 +160,7 @@ function BmiCalculator() {
                         onClick={calculateBmi}>CALCULATE</button>
                         </div>
                    <div className='text-center text-light' >
-                   <p>Copyright © 2024. Designed By Shaheer.</p>
+                   <p>Copyright © 2024. Designed By Shaheer</p>
                    </div>
                 </div>
 
