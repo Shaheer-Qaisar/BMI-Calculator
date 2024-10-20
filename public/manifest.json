@@ -39,9 +39,9 @@
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "splash_screens": {
-    "640x1136": "/splash/640x1136.png",
-    "750x1334": "/splash/750x1334.png",
-    "1242x2208": "/splash/1242x2208.png"
+    "640x1136": "/splash/splash-640x1136.png",
+    "750x1334": "/splash/splash-750x1334.png",
+    "1242x2208": "/splash/splash-1242x2208.png"
   },
   "shortcuts": [
     {
